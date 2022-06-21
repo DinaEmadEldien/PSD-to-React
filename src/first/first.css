@@ -1,0 +1,9 @@
+body  {
+    
+    background-color: #cccccc;
+}
+.head{
+    background-image: url("https://www.itl.cat/pngfile/big/327-3274460_web-development.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
